@@ -1,0 +1,23 @@
+[
+	{
+		"nombre": "Benito",
+		"edad": "1 año",
+		"tipoAnimal": "perro",
+		"color": "blanco",
+		"enfermedad": "otitis"
+	},
+	{
+		"nombre": "Julieta",
+		"edad": "6 años",
+		"tipoAnimal": "perro",
+		"color": "amarillo",
+		"enfermedad": "Moquillo"
+	},
+	{
+		"nombre": "Haru",
+		"edad": "3 meses",
+		"tipoAnimal": "gato",
+		"color": "blanca",
+		"enfermedad": "rebelde"
+	}
+]
